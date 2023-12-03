@@ -19,6 +19,12 @@ Visual components and Python
 ## Experiment:
 
 
+![image](https://github.com/mercyarulappan/Open-Jacson-Networks/assets/149233730/80bbf801-c4dc-4e46-99f8-f74c36f0903e)
+
+![image](https://github.com/mercyarulappan/Open-Jacson-Networks/assets/149233730/de051576-8cd7-4164-af54-ab5d8f9cabae)
+
+
+
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
